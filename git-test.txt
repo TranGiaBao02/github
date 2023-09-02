@@ -1,2 +1,6 @@
 GIT test
+<<<<<<< HEAD
 Xin chào GITHUB
+=======
+Hello world
+>>>>>>> 5cec2e17142c38735b6075c67459b17593fca563
